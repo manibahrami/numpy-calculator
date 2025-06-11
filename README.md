@@ -1,5 +1,5 @@
 # numpy-calculator
-#Mention --> because this code have little a bit long output I cant include it here
+# Output = file [Output_numpy (2).txt]
 
 import numpy as np
 
